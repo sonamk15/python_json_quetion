@@ -24,7 +24,7 @@ with open(filename) as fh:
         p=p+1
         # print(c)
         i=i+1
-# print(d)
+        
 # print(d)    python dictionary
 u=json.dumps(d)
 print(u) 
